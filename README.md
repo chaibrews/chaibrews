@@ -1,16 +1,19 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=chaibrews&fontAlign=50&descAlign=0&desc=brewing%20code,%20one%20cup%20at%20a%20time.&textBg=false&reversal=false&fontSize=50&descSize=15&fontAlignY=50&descAlignY=60" alt = "header">
 
-<!--
-**charmbun/charmbun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&color=F7A7CF&height=30&lines=Hi%2C+Chai+here.;Software+Engineer;Coffee+Enthusiast" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
+#### Frontend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Frontend](https://skillicons.dev/icons?i=react,vue,tailwind,js,html,css)](https://skillicons.dev)
+
+#### Backend
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,java,python,mongodb)](https://skillicons.dev)
+
+#### Systems
+
+[![Systems](https://skillicons.dev/icons?i=c,cpp,bash,linux)](https://skillicons.dev)
+
+#### Dev Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,vscode,visualstudio,androidstudio,figma,postman)](https://skillicons.dev)
