@@ -1,6 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=chaibrews&fontAlign=50&descAlign=0&desc=brewing%20code,%20one%20cup%20at%20a%20time.&textBg=false&reversal=false&fontSize=50&descSize=15&fontAlignY=50&descAlignY=60" alt = "header">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=CD99A4&text=chaibrews&fontAlign=50&descAlign=0&desc=brewing%20code,%20one%20cup%20at%20a%20time.&textBg=false&reversal=false&fontSize=50&descSize=15&fontAlignY=50&descAlignY=60" alt = "header">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&color=000000&height=30&lines=Hi%2C+Chai+here.;Software+Engineer;Coffee+Enthusiast" alt="Typing SVG" /></a>
+
+### ☕ About Me
+
+☀️ I keep production stable by day.  
+🌕 I build what excites me by night.
+
+From maintaining systems to shipping mini games and tools,  
+I care about clean builds, thoughtful design, and software that feels good to use.
+
+### Skills
 
 #### Frontend
 
