@@ -5,7 +5,7 @@
 ```js
 const whoAmI = {
   name: "Chai",
-  brew: "Code",
+  role: "Software Engineer",
   hobbies: ["Designing websites", "Learning Japanese", "Watching films"],
 
   day() {
