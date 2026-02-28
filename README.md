@@ -9,11 +9,11 @@ const whoAmI = {
   hobbies: ["Designing websites", "Learning Japanese", "Watching films"],
 
   day() {
-    return "I keep production stable — refining systems and resolving what breaks.";
+    return "I keep production stable: refining systems and resolving what breaks.";
   },
 
   night() {
-    return "I build what excites me — mini games, tools, and whatever sparks curiosity.";
+    return "I build what excites me: mini games, tools, and whatever sparks curiosity.";
   },
 };
 ```
