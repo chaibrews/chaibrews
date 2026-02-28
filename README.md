@@ -18,18 +18,14 @@ const whoAmI = {
 };
 ```
 
-#### Frontend
+#### webDev
 
-[![Frontend](https://skillicons.dev/icons?i=react,vue,tailwind,js,html,css)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=js,nodejs,react,tailwind,css,html,mongodb)](https://skillicons.dev)
 
-#### Backend
+#### systemsDev
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,java,python,mongodb)](https://skillicons.dev)
+[![Systems](https://skillicons.dev/icons?i=c,cpp,java,python,bash,linux)](https://skillicons.dev)
 
-#### Systems
-
-[![Systems](https://skillicons.dev/icons?i=c,cpp,bash,linux)](https://skillicons.dev)
-
-#### Dev Tools
+#### devTools
 
 [![Tools](https://skillicons.dev/icons?i=git,vscode,visualstudio,androidstudio,figma,postman)](https://skillicons.dev)
