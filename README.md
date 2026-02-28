@@ -2,10 +2,21 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&color=000000&height=30&lines=Hi%2C+Chai+here.;Software+Engineer;Coffee+Enthusiast" alt="Typing SVG" /></a>
 
-> ☀️ I keep production stable by day.  
-> 🌕 I build what excites me by night.
+```js
+const whoAmI = {
+  name: "Chai",
+  brew: "Code",
+  hobbies: ["Designing websites", "Learning Japanese", "Watching films"],
 
-From maintaining systems to shipping mini games and tools, I care about clean builds, thoughtful design, and software that feels good to use.
+  day() {
+    return "I keep production stable — refining systems and resolving what breaks.";
+  },
+
+  night() {
+    return "I build what excites me — mini games, tools, and whatever sparks curiosity.";
+  },
+};
+```
 
 #### Frontend
 
