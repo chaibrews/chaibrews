@@ -6,7 +6,7 @@
 const whoAmI = {
   name: "Chai",
   role: "Software Engineer",
-  hobbies: ["Designing websites", "Learning Japanese", "Watching films"],
+  hobbies: ["Films", "Books" "Learning Japanese"],
 
   day() {
     return "I keep production stable: refining systems and resolving what breaks.";
