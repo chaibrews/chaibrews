@@ -20,7 +20,7 @@ const whoAmI = {
 
 #### webDev
 
-[![Frontend](https://skillicons.dev/icons?i=js,nodejs,react,tailwind,css,html,mongodb)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=js,ts,nodejs,react,express,tailwind,css,html,postgresql,prisma)](https://skillicons.dev)
 
 #### systemsDev
 
@@ -28,4 +28,4 @@ const whoAmI = {
 
 #### devTools
 
-[![Tools](https://skillicons.dev/icons?i=git,vscode,visualstudio,androidstudio,figma,postman)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,postman,vercel,vscode,visualstudio,androidstudio,figma,)](https://skillicons.dev)
